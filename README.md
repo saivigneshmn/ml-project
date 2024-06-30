@@ -16,7 +16,7 @@ This project introduces an innovative automated image captioning system that lev
 
 ## Installation
 - Clone the repository
-git clone https://github.com/saivigneshmn/resnet50-dct-telugu-captioning.git
+git clone https://github.com/saivigneshmn/ml-project.git
 
 - Navigate to the project directory 
 cd resnet50-dct-telugu-captioning
