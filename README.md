@@ -1,4 +1,4 @@
-# ResNet50-DCT Feature Fusion for Automated Image Captioning in Telugu
+# ResNet50-DCT for Automated Image Captioning in Telugu
 
 
 ## Brief Description
